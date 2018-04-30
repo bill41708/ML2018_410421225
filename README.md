@@ -13,7 +13,9 @@
  
 ###  parameters
 
-* MaxIterlimit : epoch次數，10
+* MaxIterlimit : epoch次數， 5
+
+*ε : e
 
 * weights : 使用numpy的random
 
