@@ -15,7 +15,7 @@
 
 * MaxIterlimit : epoch次數， 5
 
-*ε : e
+* ε : e
 
 * weights : 使用numpy的random
 
